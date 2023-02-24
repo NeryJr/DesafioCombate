@@ -33,7 +33,7 @@ public class App {
         Champion champ2 = new Champion(name2, life2, attack2, armor2);
 
         System.out.println();
-        System.out.print("Quantso turnos você deseja executar? ");
+        System.out.print("Quantos turnos você deseja executar? ");
         int turns = sc.nextInt();
         System.out.println();
 
